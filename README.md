@@ -28,7 +28,7 @@ No dependencies—everything runs purely in HTML, CSS, and vanilla JavaScript.
 - 🖇️ Easy to Extend:
 Emoji list and styling are simple to customize or expand.
 
-### Live :- [😊 Random Emoji Generator](https://easy-mern-project-i2gq.vercel.app/)
+### Live :- [😊 Random Emoji Generator](https://random-emojies-lemon.vercel.app/)
 
 ### 🛠️ Tech Stack
 - HTML5 – Page structure
