@@ -37,7 +37,7 @@ Emoji list and styling are simple to customize or expand.
 
 ## 📦 How to Run Locally
 - Clone the Repository :- 
-  *https://github.com/pravinavachar12/easy-mern-project.git*
+  *https://github.com/pravinavachar12/Random-Emojies.git*
 - Navigate to the Project Folder :- 
   cd *name of the folder* 
 - Open in Browser :- 
